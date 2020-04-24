@@ -9,7 +9,9 @@ Home page with background info, table of solutions, benchmark timings, and more:
 
 ----
 
-Copyright © 2020 Project Lulzx. You can do whatever you want, this repository is in public domain under CC0 1.0 Universal (CC0 1.0) License.
+Copyright © 2020 Project Lulzx.
+
+You can do whatever you want, this repository is in public domain under CC0 1.0 Universal (CC0 1.0) License.
 
 This code is provided for reference only. You may republish any of this code verbatim without author and URL info intact.
 
